@@ -1,0 +1,12 @@
+.candidate_table_headers th{
+padding: 20px 0px;
+font-size: 14px;
+font-weight: bold;
+color: grey;
+}
+.candidate_table tr:nth-child(even) {
+  background-color: #f6fbfe;
+}
+.candidate_table td{
+    padding: 0;
+}
