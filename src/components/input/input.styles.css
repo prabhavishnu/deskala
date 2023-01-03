@@ -1,0 +1,12 @@
+.deskala_std_input {
+  padding: 10px;
+  width: 100%;
+  border-color: lightgray;
+  border-radius: 2px;
+  margin-top: 5px;
+}
+
+.deskala_std_input_label {
+  font-weight: 600;
+  font-size: 14px;
+}

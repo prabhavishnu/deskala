@@ -1,0 +1,32 @@
+.candidate_table_headers th {
+  padding: 20px 0px;
+  font-size: 14px;
+  font-weight: bold;
+  color: grey;
+  background-color: white;
+}
+.candidate_table tr:nth-child(odd) {
+  background-color: #f6fbfe;
+}
+.candidate_table td {
+  padding: 0;
+}
+
+.candidate_table tbody td {
+  padding: 0.5rem 0;
+}
+
+.deskala_std_icons {
+  color: #42b0ee;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.simple_dropdown {
+  border: none;
+  background-color: transparent;
+}
+
+.simple_dropdown:focus {
+  outline: none;
+}

@@ -1,0 +1,9 @@
+.Add_candidate_button {
+  color: #42b0ee;
+  text-decoration: none;
+}
+
+.modal_footer_buttons {
+  display: flex;
+  justify-content: flex-end;
+}

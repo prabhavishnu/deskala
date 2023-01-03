@@ -1,9 +1,12 @@
-import './App.css';
-import Login from './/login/LoginScreen'
-import CandidatesdataScreen from './table/CandidatesdataScreeen';
+import "./App.css";
+import { BrowserRouter } from "react-router-dom";
+import MainRouter from "./mainRouter";
+
 function App() {
   return (
-   <CandidatesdataScreen/>
+    <BrowserRouter>
+      <MainRouter />
+    </BrowserRouter>
   );
 }
 
